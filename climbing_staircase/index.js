@@ -18,3 +18,5 @@ console.log(climbingStaircase(2));
 console.log(climbingStaircase(3));
 console.log(climbingStaircase(4));
 console.log(climbingStaircase(5));
+
+// Big-O - O(n)
